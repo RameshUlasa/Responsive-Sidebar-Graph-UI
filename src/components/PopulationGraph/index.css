@@ -1,0 +1,19 @@
+.graph-container {
+  margin-top: 20px;
+  background-color: #262625;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.graph-head {
+  color: #ffffff !important;
+  font-weight: 400;
+  font-size: 18px;
+}
+@media screen and (min-width: 769px) {
+  .graph-head {
+    font-size: 22px;
+  }
+}

@@ -1,0 +1,29 @@
+.main-body-container {
+  margin: 10px;
+  height: 100vh;
+  overflow-y: scroll;
+  scrollbar-width: none; /* Hide default scroll bar in Firefox */
+  -ms-overflow-style: none; /* Hide default scroll bar in IE and Edge */
+}
+
+.main-body-container::-webkit-scrollbar {
+  display: none; /* Hide default scroll bar in WebKit browsers (e.g., Chrome, Safari) */
+}
+.body-main-head {
+  color: #ffffff;
+  font-size: 19px;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+.h-span {
+  color: #37ba07;
+  font-weight: 600;
+}
+@media screen and (min-width: 769px) {
+  .main-body-container {
+    width: 80%;
+  }
+  .body-main-head {
+    font-size: 24px;
+  }
+}

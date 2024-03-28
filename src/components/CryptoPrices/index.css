@@ -1,0 +1,10 @@
+.crypto-container {
+  margin-top: 20px;
+}
+.crypto-cards-container {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
