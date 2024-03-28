@@ -15,6 +15,7 @@ Fetched population data from the provided API (https://datausa.io/api/data?drill
 Fetched cryptocurrency prices from the provided API (https://api.coindesk.com/v1/bpi/currentprice.json) and displayed them in cards using React's lifecycle methods/hooks. Shows Bitcoin prices in multiple currencies (e.g., USD and Euro) with visually appealing card designs.
 
 ## Screenshot of the Completed Work:
+![Screenshot 2024-03-28 162155](https://github.com/RameshUlasa/Responsive-Sidebar-Graph-UI/assets/120721155/e3fd7b51-3476-470c-a08b-da3206669a69)
 
 ## Installation
 
